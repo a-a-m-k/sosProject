@@ -1,0 +1,6 @@
+1.Film search
+2.Film filter: name, imdb,year,genre
+3.Film details
+4.Pagination 
+5.Page navigation
+6.MaterialCss, PrimeNG libraries usage 
